@@ -1,2 +1,2 @@
 # Online-Hospital-Management-System
-This is a Java-based Online Hospital Management System built using Java Swing and OOP concepts. 
+This is a Java-based Online Hospital Management System built using Java Swing and OOP concepts. It provides different user roles for patients and doctors to ensure smooth hospital management.The system allows patients to find doctors and Create a appointment with doctor .Also Patient can view the doctor list .Another feature of this project is admin panel..Admin can manage the full system ... 
